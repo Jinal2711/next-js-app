@@ -10,7 +10,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.0",
     "autoprefixer": "^9.7.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "next": "9.3.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
